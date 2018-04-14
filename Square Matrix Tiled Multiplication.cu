@@ -1,8 +1,3 @@
-// Machine Problem 4
-// Siqi Dai
-// 10183100
-// 14sd63
-
 #ifndef __CUDACC__ 
 #define __CUDACC__
 #endif

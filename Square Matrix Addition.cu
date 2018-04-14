@@ -1,8 +1,3 @@
-// Machine Problem 2
-// Siqi Dai
-// 10183100
-// 14sd63
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <cuda_runtime.h>
